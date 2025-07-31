@@ -1,0 +1,1 @@
+Scrapes from SMHI, sorry for the horrible README
