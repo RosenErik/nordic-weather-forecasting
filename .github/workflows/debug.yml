@@ -1,0 +1,63 @@
+name: Fetch Nordic Weather Data (Debug)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-weather:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Debug - Show current directory
+      run: |
+        echo "Current directory:"
+        pwd
+        echo "Files in directory:"
+        ls -la
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Run weather fetch script
+      run: python nordic_weather_energy.py
+      continue-on-error: true
+    
+    - name: Debug - Show created files
+      run: |
+        echo "After running script:"
+        ls -la
+        if [ -d "weather_forecasts" ]; then
+          echo "Contents of weather_forecasts:"
+          ls -la weather_forecasts/
+        fi
+    
+    - name: Configure Git
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git status
+    
+    - name: Commit and push weather data
+      run: |
+        git add -A
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update weather data - $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
+        fi
