@@ -1,49 +1,49 @@
 Country,Location,Type,Lat,Lon,Temp_Min,Temp_Max,Temp_Avg,Wind_Avg,Wind_Max,Precip_Total,Cloud_Avg
-Sweden,Uppsala,city,59.8586,17.6389,3.2,3.9,3.6,1.9,2.9,0.3,8.0
-Sweden,Örebro,city,59.2753,15.2134,2.9,3.4,3.1,1.5,1.8,0.2,8.0
-Sweden,Norrköping,city,58.5877,16.1924,3.1,4.3,3.8,1.5,1.8,0.0,8.0
-Sweden,Stockholm,major_city,59.3293,18.0686,4.5,5.1,4.9,2.5,3.3,0.5,8.0
-Sweden,Malmö,major_city,55.605,13.0038,4.8,6.0,5.3,4.1,4.9,0.0,8.0
-Sweden,Gothenburg,major_city,57.7089,11.9746,4.3,5.2,4.8,3.4,4.2,2.4000000000000004,8.0
-Sweden,Västerås,city,59.6099,16.5448,2.7,3.8,3.0,1.7,3.0,0.0,8.0
-Sweden,Jönköping,city,57.7826,14.1618,3.6,4.6,4.2,2.8,3.1,0.4,8.0
-Sweden,Linköping,city,58.4108,15.6214,3.4,4.3,3.9,2.2,2.7,0.5,7.9
-Sweden,Helsingborg,city,56.0465,12.6945,4.2,5.9,5.1,5.0,5.6,0.6,8.0
-Sweden,Luleå,hydro_region,65.5848,22.1547,-3.4,-2.4,-2.9,0.9,1.7,1.7,7.6
-Sweden,Umeå,hydro_region,63.8258,20.263,1.3,2.6,2.0,1.1,2.2,0.9999999999999999,8.0
-Sweden,Kiruna,hydro_region,67.8558,20.2253,-11.4,-9.8,-10.5,1.8,3.4,0.8,7.2
-Sweden,Sundsvall,hydro_region,62.3908,17.3069,-4.2,0.1,-1.3,1.1,1.7,0.0,7.6
-Sweden,Öland (Borgholm),wind_region,56.8797,16.6564,4.1,5.2,4.6,2.8,4.3,0.0,7.9
-Sweden,Östersund,hydro_region,63.1792,14.6357,-2.5,-0.0,-1.2,1.7,2.5,0.0,7.9
-Sweden,Gällivare,hydro_region,67.1355,20.667,-9.8,-8.1,-8.8,1.6,2.6,1.4,7.4
-Sweden,Halland (Varberg),wind_region,57.1057,12.2508,4.3,5.2,4.8,4.6,5.0,2.7000000000000006,8.0
-Sweden,Gotland (Visby),wind_region,57.6348,18.2948,3.9,4.8,4.4,2.9,3.7,0.0,8.0
-Sweden,Skåne (Kristianstad),wind_region,56.0294,14.1567,4.5,5.5,4.9,2.9,3.9,0.0,8.0
-Sweden,Blekinge (Karlskrona),wind_region,56.1612,15.5869,4.7,5.9,5.3,3.0,4.0,0.0,8.0
-Sweden,Borlänge,industrial,60.4858,15.4371,0.7,1.9,1.4,0.7,1.2,0.0,8.0
-Sweden,Trollhättan,industrial,58.2837,12.2886,3.5,4.5,4.0,1.3,1.6,2.5,8.0
-Sweden,Sandviken,industrial,60.616,16.7709,1.4,3.0,2.4,1.4,2.2,0.0,8.0
-Norway,Tromsø,hydro_region,69.6492,18.9553,-6.8,-0.9,-4.6,2.4,4.2,0.0,3.0
-Norway,Bergen,major_city,60.3913,5.3221,4.4,7.4,6.0,3.1,5.5,0.2,4.2
-Norway,Stavanger,major_city,58.97,5.7331,7.4,8.7,7.9,3.0,5.0,0.30000000000000004,6.2
-Norway,Kristiansand,hydro_region,58.1599,8.0182,5.7,7.5,6.6,2.5,4.0,5.6,8.0
-Norway,Oslo,major_city,59.9139,10.7522,3.3,4.6,3.9,2.8,4.2,4.0,8.0
-Norway,Ålesund,hydro_region,62.4722,6.1549,3.8,6.6,5.4,3.5,3.8,0.1,2.4
-Norway,Trondheim,major_city,63.4305,10.3951,-1.5,1.4,-0.0,1.4,2.6,0.0,4.0
-Norway,Bodø,hydro_region,67.2804,14.4049,2.5,4.4,3.3,4.0,5.2,0.0,7.6
-Finland,Espoo,major_city,60.2055,24.6559,1.9,2.9,2.7,2.3,3.2,0.0,7.5
-Finland,Tampere,major_city,61.4978,23.761,2.3,3.1,2.7,3.3,4.5,0.0,8.0
-Finland,Eurajoki (Olkiluoto),nuclear,61.2351,21.4845,3.3,3.9,3.7,3.4,4.3,0.8999999999999999,7.7
-Finland,Oulu,major_city,65.0121,25.4651,1.9,3.2,2.8,3.7,4.3,1.4000000000000001,8.0
-Finland,Vaasa,wind_region,63.096,21.6158,2.7,4.8,3.5,3.9,4.8,0.9999999999999999,8.0
-Finland,Turku,major_city,60.4518,22.2666,3.1,4.1,3.8,3.8,4.4,1.1,7.7
-Finland,Loviisa,nuclear,60.3681,26.3581,2.8,3.6,3.1,4.0,5.2,0.0,7.8
-Finland,Helsinki,major_city,60.1699,24.9384,2.6,4.3,3.6,4.0,4.6,0.1,7.4
-Finland,Lapland (Rovaniemi),wind_region,66.5039,25.7294,-1.6,0.3,-0.5,2.0,3.9,0.6000000000000001,7.9
-Denmark,Copenhagen,major_city,55.6761,12.5683,5.3,6.1,5.7,3.9,5.0,0.4,8.0
-Denmark,Aalborg,major_city,57.0488,9.9187,5.0,6.6,5.9,3.3,4.1,2.9000000000000004,8.0
-Denmark,Aarhus,major_city,56.1629,10.2039,4.8,6.5,6.0,3.8,4.6,4.1,7.9
-Denmark,Ringkøbing,wind_region,56.0905,8.244,5.5,6.4,6.0,5.0,6.2,1.8000000000000003,8.0
-Denmark,Odense,major_city,55.4038,10.4024,3.6,6.0,5.3,3.5,4.0,3.1,7.8
-Denmark,Esbjerg,wind_region,55.4669,8.4597,4.7,6.3,5.8,4.5,5.9,2.3000000000000003,7.7
-Denmark,Bornholm (Rønne),wind_region,55.1003,14.7005,4.4,5.1,4.8,5.5,6.3,0.0,7.8
+Sweden,Västerås,city,59.6099,16.5448,3.2,3.5,3.3,1.5,1.9,0.0,8.0
+Sweden,Stockholm,major_city,59.3293,18.0686,4.3,5.3,4.9,2.3,2.4,0.0,8.0
+Sweden,Linköping,city,58.4108,15.6214,3.7,4.3,4.0,1.9,1.9,0.0,7.8
+Sweden,Norrköping,city,58.5877,16.1924,3.7,4.3,4.1,2.0,2.5,0.0,8.0
+Sweden,Jönköping,city,57.7826,14.1618,4.2,4.8,4.6,2.6,2.7,0.0,8.0
+Sweden,Gothenburg,major_city,57.7089,11.9746,5.1,5.8,5.4,3.1,3.3,1.4,8.0
+Sweden,Örebro,city,59.2753,15.2134,3.6,3.7,3.6,1.8,1.8,0.0,8.0
+Sweden,Uppsala,city,59.8586,17.6389,3.6,3.8,3.7,0.4,0.7,0.1,8.0
+Sweden,Helsingborg,city,56.0465,12.6945,4.3,4.7,4.5,5.1,5.6,0.8,8.0
+Sweden,Malmö,major_city,55.605,13.0038,5.1,5.2,5.1,4.0,4.5,0.1,8.0
+Sweden,Luleå,hydro_region,65.5848,22.1547,-4.3,-3.3,-4.0,1.4,1.7,3.3000000000000003,8.0
+Sweden,Östersund,hydro_region,63.1792,14.6357,-1.1,-0.4,-0.7,0.9,1.0,0.0,8.0
+Sweden,Öland (Borgholm),wind_region,56.8797,16.6564,4.4,4.7,4.5,1.5,2.0,0.0,8.0
+Sweden,Kiruna,hydro_region,67.8558,20.2253,-8.5,-8.1,-8.3,1.4,1.5,1.0,8.0
+Sweden,Gällivare,hydro_region,67.1355,20.667,-8.6,-8.3,-8.5,0.7,1.3,1.9,8.0
+Sweden,Sundsvall,hydro_region,62.3908,17.3069,-2.5,-0.8,-1.8,1.4,2.1,0.0,6.5
+Sweden,Gotland (Visby),wind_region,57.6348,18.2948,4.1,4.7,4.4,2.1,2.3,0.0,8.0
+Sweden,Umeå,hydro_region,63.8258,20.263,1.6,2.2,2.0,0.6,1.0,0.5,8.0
+Sweden,Halland (Varberg),wind_region,57.1057,12.2508,4.6,5.3,4.9,4.4,5.1,1.4000000000000004,8.0
+Sweden,Skåne (Kristianstad),wind_region,56.0294,14.1567,5.2,5.3,5.2,2.9,3.4,0.0,8.0
+Sweden,Blekinge (Karlskrona),wind_region,56.1612,15.5869,4.6,4.7,4.6,2.0,2.2,0.0,8.0
+Sweden,Borlänge,industrial,60.4858,15.4371,1.2,1.6,1.4,0.6,1.3,0.0,8.0
+Sweden,Sandviken,industrial,60.616,16.7709,1.0,2.1,1.3,1.3,2.2,0.0,8.0
+Sweden,Trollhättan,industrial,58.2837,12.2886,4.3,4.8,4.5,1.1,1.7,2.4,8.0
+Norway,Trondheim,major_city,63.4305,10.3951,-0.9,-0.1,-0.5,1.9,2.2,0.0,1.7
+Norway,Stavanger,major_city,58.97,5.7331,7.1,7.7,7.4,2.4,3.1,0.1,5.3
+Norway,Kristiansand,hydro_region,58.1599,8.0182,6.2,6.7,6.4,2.9,3.4,3.7,8.0
+Norway,Bodø,hydro_region,67.2804,14.4049,3.2,3.5,3.3,3.6,3.9,0.0,5.8
+Norway,Bergen,major_city,60.3913,5.3221,5.3,6.8,5.8,1.8,2.8,0.0,6.0
+Norway,Ålesund,hydro_region,62.4722,6.1549,5.0,5.9,5.4,4.1,4.3,0.0,1.3
+Norway,Oslo,major_city,59.9139,10.7522,3.6,4.3,3.9,3.7,4.0,1.8,8.0
+Norway,Tromsø,hydro_region,69.6492,18.9553,-4.5,-3.6,-4.2,2.2,3.8,0.0,7.0
+Finland,Oulu,major_city,65.0121,25.4651,2.3,3.1,2.7,3.1,3.2,0.5,8.0
+Finland,Loviisa,nuclear,60.3681,26.3581,2.1,2.9,2.5,3.6,4.0,0.0,8.0
+Finland,Lapland (Rovaniemi),wind_region,66.5039,25.7294,-0.1,0.3,0.1,2.3,2.5,1.3,8.0
+Finland,Tampere,major_city,61.4978,23.761,1.6,2.0,1.8,3.2,3.6,0.0,8.0
+Finland,Turku,major_city,60.4518,22.2666,3.6,3.9,3.7,3.5,4.4,0.6,8.0
+Finland,Eurajoki (Olkiluoto),nuclear,61.2351,21.4845,3.2,3.6,3.4,2.9,3.8,0.4,8.0
+Finland,Espoo,major_city,60.2055,24.6559,2.0,2.6,2.3,1.8,1.9,0.0,8.0
+Finland,Vaasa,wind_region,63.096,21.6158,2.5,2.8,2.7,3.7,3.8,0.30000000000000004,8.0
+Finland,Helsinki,major_city,60.1699,24.9384,3.3,4.0,3.6,3.8,4.0,0.0,8.0
+Denmark,Bornholm (Rønne),wind_region,55.1003,14.7005,5.2,5.3,5.2,5.2,5.5,0.0,7.8
+Denmark,Aalborg,major_city,57.0488,9.9187,5.4,5.8,5.6,3.4,3.7,0.2,8.0
+Denmark,Ringkøbing,wind_region,56.0905,8.244,5.3,5.9,5.5,4.5,5.8,0.0,7.8
+Denmark,Aarhus,major_city,56.1629,10.2039,5.3,6.1,5.7,4.1,4.6,0.0,8.0
+Denmark,Esbjerg,wind_region,55.4669,8.4597,5.1,5.6,5.3,5.3,6.3,0.0,8.0
+Denmark,Odense,major_city,55.4038,10.4024,4.4,5.6,5.1,4.0,4.3,0.0,7.8
+Denmark,Copenhagen,major_city,55.6761,12.5683,5.5,5.7,5.6,4.4,4.8,0.3,8.0
