@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "timestamp": "2026-08-02T08:05:21.205736",
+    "total_locations": 48,
+    "countries": [
+      "Sweden",
+      "Norway",
+      "Finland",
+      "Denmark"
+    ]
+  },
+  "forecasts": {
+    "Sweden": {
+      "locations": [],
+      "by_type": {}
+    },
+    "Norway": {
+      "locations": [],
+      "by_type": {}
+    },
+    "Finland": {
+      "locations": [],
+      "by_type": {}
+    },
+    "Denmark": {
+      "locations": [],
+      "by_type": {}
+    }
+  }
+}
